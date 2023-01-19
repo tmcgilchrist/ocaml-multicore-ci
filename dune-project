@@ -62,7 +62,7 @@
   (cmdliner (>= 1.1.0))
   lwt
   lwt_ppx
-  (cohttp-lwt-unix (>= 2.2.0))
+  (cohttp-lwt-unix (>= 4.0.0))
   tyxml
   (capnp-rpc-unix (>= 1.2))
   ocaml-multicore-ci-api
